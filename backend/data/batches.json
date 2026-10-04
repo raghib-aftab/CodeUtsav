@@ -1,0 +1,38 @@
+{
+  "10": {
+    "batch_id": 10,
+    "name": "Standard Square Billet 100x25x25",
+    "L": 100.0,
+    "B": 25.0,
+    "H": 25.0,
+    "tol": 1.0,
+    "grade": "IS 2830 / Fe 500D"
+  },
+  "20": {
+    "batch_id": 20,
+    "name": "Structural Heavy Billet 120x30x30",
+    "L": 120.0,
+    "B": 30.0,
+    "H": 30.0,
+    "tol": 1.2,
+    "grade": "ASTM A36 Carbon Steel"
+  },
+  "30": {
+    "batch_id": 30,
+    "name": "Forging Stock Billet 150x40x40",
+    "L": 150.0,
+    "B": 40.0,
+    "H": 40.0,
+    "tol": 1.5,
+    "grade": "AISI 4140 Alloy Steel"
+  },
+  "42": {
+    "batch_id": 42,
+    "name": "Reference Calibration Gauge 80x80x80",
+    "L": 80.0,
+    "B": 80.0,
+    "H": 80.0,
+    "tol": 0.5,
+    "grade": "Tool Steel Reference"
+  }
+}
